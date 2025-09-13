@@ -1,0 +1,19 @@
+{
+  "botToken": "8258727075:AAE6Um8ujQGz26QXubDkWMo1ppg4Ly8Gsoc",
+  "ownerId": 6484788124,
+  "apiUrl": "https://api.ar-lottery01.com/api/Lottery/GetHistoryIssuePage?gameCode=WinGo_1M&pageNo=1&pageSize=10&language=en&random=645500034918&signature=AA6547BB6F30E0FAF2BD2D26EE4D7C14&timestamp=1757780701",
+  "bearerToken": null,
+  "predictionChatId": null,
+  "knownChannels": {},
+  "predictionIntervalCron": "5 * * * * *",
+  "isSessionActive": false,
+  "sessionEndTime": null,
+  "sessionStartMessage": {
+    "type": "text",
+    "content": "🚀 Prediction Session Starting Now! Get Ready! 🚀"
+  },
+  "sessionEndMessage": {
+    "type": "text",
+    "content": "🛑 Session Over! Thanks for participating. 🛑"
+  }
+}
