@@ -1,0 +1,9 @@
+# Node.js dependencies
+node_modules
+
+# Configuration file with secrets
+config.json
+
+# PM2 logs
+logs/
+*.log
