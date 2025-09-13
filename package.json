@@ -1,0 +1,17 @@
+{
+  "name": "prediction-bot",
+  "version": "2.0.0",
+  "description": "Advanced session-based Telegram prediction bot.",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js"
+  },
+  "author": "Aviii",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cron-parser": "^4.9.0",
+    "node-cron": "^3.0.3",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
